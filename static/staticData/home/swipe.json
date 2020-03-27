@@ -1,0 +1,34 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result":[
+              {"url":"http://img.nodebook.top/2020_02_27_06_23_1673065image/jpeg",
+                "name":"0ec4a32cbd84b1575892960355.jpg",
+                "uid":"rc-upload-1582798985339-2",
+                "status":"done"
+              },
+           {"url":"http://img.nodebook.top/2020_02_27_06_23_3892637image/jpeg",
+            "name":"1bb411f2cd09d1575815053778.jpg",
+            "uid":"rc-upload-1582798985339-5",
+            "status":"done"},
+            {"url":"http://img.nodebook.top/2020_02_27_06_23_4833913image/jpeg",
+                "name":"168bff87979f11575943593312.jpg",
+                "uid":"rc-upload-1582798985339-7",
+                "status":"done"},
+            {"url":"http://img.nodebook.top/2020_02_27_06_23_5974437image/jpeg",
+                    "name":"b7efb94de888d1575820057576.jpg",
+                    "uid":"rc-upload-1582798985339-9",
+                    "status":"done"},
+         {"url":"http://img.nodebook.top/2020_02_27_06_24_0996659image/jpeg",
+             "name":"d3d83d40395221575808767181.jpg",
+                 "uid":"rc-upload-1582798985339-11",
+                 "status":"done"},
+         {"url":"http://img.nodebook.top/2020_02_27_06_24_1987671image/jpeg",
+                 "name":"eb669d9799b8f1575907727553.jpg",
+                 "uid":"rc-upload-1582798985339-13",
+                 "status":"done"}
+
+
+        
+    ]
+}

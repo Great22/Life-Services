@@ -1,0 +1,87 @@
+{
+    "resultcode": "200",
+    "reason": "成功的返回",
+    "result": [
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_30_5769262image/jpeg",
+            "title": "新鲜水果",
+            "name": "febc9219e5f061561980283162.jpg",
+            "uid": "rc-upload-1582788573144-5",
+            "status": "done",
+            "period":13
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_31_2078743image/jpeg",
+            "title": "安心蔬菜",
+            "name": "faed0c89b1ac61561979943620.jpg",
+            "uid": "rc-upload-1582788573144-8",
+            "status": "done",
+            "period":15
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_31_4831418image/jpeg",
+            "title": "肉禽蛋",
+            "name": "57742da7f00ab1562725189267.jpg",
+            "uid": "rc-upload-1582788573144-11",
+            "status": "done",
+            "period": 16
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_32_0383172image/jpeg",
+            "title": "海鲜水产",
+            "name": "3f96191b097cd1562204510108.jpg",
+            "uid": "rc-upload-1582788573144-14",
+            "status": "done",
+            "period": 17
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_32_2430524image/jpeg",
+            "title": "营养早餐",
+            "name": "baf53e7d1e9ce1561980371874.jpg",
+            "uid": "rc-upload-1582788573144-17",
+            "status": "done",
+            "period": 18
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_33_1476166image/jpeg",
+            "title": "豆制品",
+            "name": "a79822f496ec71561980537120.jpg",
+            "uid": "rc-upload-1582788573144-20",
+            "status": "done",
+            "period": 19
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_33_4351303image/jpeg",
+            "title": "叮咚心选",
+            "name": "cc39ecee3cee51564386403745.jpg",
+            "uid": "rc-upload-1582788573144-22",
+            "status": "done",
+            "period": 20
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_34_0482623image/jpeg",
+            "title": "米面粮油",
+            "name": "67260446df1451561980456552.jpg",
+            "uid": "rc-upload-1582788573144-24",
+            "status": "done",
+            "period": 21
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_34_1845766image/jpeg",
+            "title": "调味品",
+            "name": "17964fae5012d1561980650167.jpg",
+            "uid": "rc-upload-1582788573144-26",
+            "status": "done",
+            "period": 22
+
+        },
+        {
+            "url": "http://img.nodebook.top/2020_02_27_03_35_0513968image/jpeg",
+            "title": "乳品烘焙",
+            "name": "a19a8501bf4041561980956934.jpg",
+            "uid": "rc-upload-1582788573144-29",
+            "status": "done",
+            "period": 23
+        }
+    ]
+}
